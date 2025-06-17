@@ -25,21 +25,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
+
 Minhas principais ferramentas no desenvolvimento Front-end incluem:
-* **HTML5, CSS3 e JavaScript (ES6+):** A base para qualquer projeto web.
-* **React:** Para construir componentes reutilizáveis e interfaces dinâmicas e escaláveis.
-* **SQL:** Compreensão e manipulação de bancos de dados para integração com o front-end.
-* **Gulp:** Automação de tarefas para otimizar o fluxo de trabalho quando faz sentido no projeto.
+* **HTML5, CSS3 e SCSS** 
+* **JavaScript (ES6+)** 
+* **React** 
+* **Gulp** 
+* **SQL**
 
 ---
 
-## 🎨 Design e Ferramentas Criativas
+## 🎨 Design
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -47,8 +50,8 @@ Minhas principais ferramentas no desenvolvimento Front-end incluem:
 </p>
 
 Além do código, tenho um olhar curioso para o design e a experiência do usuário, utilizando:
-* **Figma:** Para prototipagem, wireframing e colaboração no design de interfaces.
-* **Adobe Creative Suite:** Ferramentas como Photoshop e Illustrator para manipulação de imagens e criação de elementos visuais.
+* **Figma:** 
+* **Adobe Creative Suite:** Ferramentas como Photoshop e Illustrator.
 
 ---
 
