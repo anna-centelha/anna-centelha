@@ -42,7 +42,7 @@
 </p>
 
 Além do código, tenho um olhar curioso para o design e a experiência do usuário, utilizando:
-* **Figma:** 
+* **Figma** 
 * **Adobe Creative Suite:** Ferramentas como Photoshop e Illustrator.
 
 ---
