@@ -84,5 +84,5 @@ Além do código, tenho um olhar curioso para o design e a experiência do usuá
 ---
 
 <div align="center">
-  ✨ _"A criatividade é a centelha que transforma ideias em realidade."_ 🔥
+  ✨ "A criatividade é a centelha que transforma ideias em realidade."
 </div>
