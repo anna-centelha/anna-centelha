@@ -1,45 +1,85 @@
-# ✨ Anna Centelha
+<div align="center">
+  <h1>✨ Olá! Eu sou Anna Centelha ✨</h1>
+  <h3>👩‍💻 Desenvolvedora Front-end | Brasil 🇧🇷</h3>
 
-### 👩‍💻 Desenvolvedora Front End | Brasil 🇧🇷
+  ---
 
-[![GitHub](https://img.shields.io/github/followers/anna-centelha?label=GitHub&style=social)](https://github.com/anna-centelha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annacentelha/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/annacentelha)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
-
----
-
-## 🚀 Tecnologias que mais utilizo:
-
-- 🌐 **HTML5 | CSS3 | JavaScript (ES6+)**
-- ⚛️ **React**
-- 🗄️ **SQL (banco de dados)**
-- 🔧 **Gulp** (automação quando faz sentido no projeto)
+  <p>
+    <a href="https://github.com/anna-centelha" target="_blank">
+      <img src="https://img.shields.io/github/followers/anna-centelha?label=GitHub&style=social&logo=github&logoColor=white" alt="GitHub Followers">
+    </a>
+    <a href="https://www.linkedin.com/in/annacentelha/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    </a>
+    <a href="https://www.behance.net/annacentelha" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Profile">
+    </a>
+  </p>
+  
+</div>
 
 ---
 
-## 🎨 Design e Criatividade:
+## 🚀 Minhas Habilidades Técnicas
 
-Além da programação, também tenho um olhar curioso para o design, trabalhando com:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp">
+</p>
 
-- 🛠️ **Figma**
-- 🎨 **Adobe Creative Suite** (Photoshop, Illustrator e outros)
+Minhas principais ferramentas no desenvolvimento Front-end incluem:
+* **HTML5, CSS3 e JavaScript (ES6+):** A base para qualquer projeto web.
+* **React:** Para construir componentes reutilizáveis e interfaces dinâmicas e escaláveis.
+* **SQL:** Compreensão e manipulação de bancos de dados para integração com o front-end.
+* **Gulp:** Automação de tarefas para otimizar o fluxo de trabalho quando faz sentido no projeto.
 
 ---
 
-## 🌟 Onde me encontrar:
+## 🎨 Design e Ferramentas Criativas
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/annacentelha/)
-- 🎨 [**Behance**](https://www.behance.net/annacentelha)
-- 🐙 [**GitHub**](https://github.com/anna-centelha)
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Creative Suite">
+</p>
+
+Além do código, tenho um olhar curioso para o design e a experiência do usuário, utilizando:
+* **Figma:** Para prototipagem, wireframing e colaboração no design de interfaces.
+* **Adobe Creative Suite:** Ferramentas como Photoshop e Illustrator para manipulação de imagens e criação de elementos visuais.
 
 ---
 
-✨ _"A criatividade é a centelha que transforma ideias em realidade."_ 🔥
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/anna-centelha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anna-centelha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-centelha&layout=compact&theme=radical"/>
+  </a>
+</div>
+
+---
+
+## 🌟 Onde me encontrar
+
+<p align="center">
+  <br><br>
+  <a href="https://www.linkedin.com/in/annacentelha/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.behance.net/annacentelha" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+  <a href="https://github.com/anna-centelha" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  ✨ _"A criatividade é a centelha que transforma ideias em realidade."_ 🔥
+</div>
