@@ -32,14 +32,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-
-Minhas principais ferramentas no desenvolvimento Front-end incluem:
-* **HTML5, CSS3 e SCSS** 
-* **JavaScript (ES6+)** 
-* **React** 
-* **Gulp** 
-* **SQL**
-
 ---
 
 ## 🎨 Design
