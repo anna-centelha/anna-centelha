@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Olá! Eu sou Anna Centelha ✨</h1>
+  <h1>✨ Olá! Me chamo Anna Centelha ✨</h1>
   <h3>👩‍💻 Desenvolvedora Front-end | Brasil 🇧🇷</h3>
 
   ---
